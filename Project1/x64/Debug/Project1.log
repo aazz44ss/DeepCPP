@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\10611016\source\repos\project1\main.cpp(760): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\10611016\source\repos\project1\main.cpp(712): warning C4244: '*=': 將 'hsize_t' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  c:\users\10611016\source\repos\project1\main.cpp(746): note: 請參閱所要編譯的函式 樣板 具現化 'void read_HDF5_4D<double>(Blob<double> *&,std::string,std::string,Dtype,int,int)' 之參考
+          with
+          [
+              Dtype=double
+          ]
+c:\users\10611016\source\repos\project1\main.cpp(720): warning C4244: '引數': 將 'hsize_t' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  Project1.vcxproj -> C:\Users\10611016\source\repos\Project1\x64\Debug\Project1.exe
